@@ -9,3 +9,4 @@ build
 *.pyc
 *.egg-info
 *.zip
+nfldb.sql
